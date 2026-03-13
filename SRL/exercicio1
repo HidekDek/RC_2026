@@ -1,0 +1,11 @@
+1. - Criação de contas de utilizador para cada funcionário, pedindo login e senha.
+   - Possibilidade de usar impressoras partilhadas por departamento.
+   - Definir permissões por usuário ou grupo.
+
+2. O sistema vai pedir um login para o utilizador para confirmar se o usuário tem acesso.
+
+3. Para barrar instrusos e funcionários sem permissão de acessar dados e pastas do sistema.
+
+4. Para separar impressoras por departamento e aceder o uso a longa distância pela rede.
+
+5. O adiministrador utilizaria o son para fazer um sistema de registro de tentativas no login, caso o utilizador falhe no login mais de um certo número de vezes, ele é barrado.
